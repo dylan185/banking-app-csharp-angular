@@ -1,2 +1,2 @@
-# banking-app-csharp-angular
-A Banking WebApp
+# banking-webapi
+A Banking WebAPI in ASPNET & Angular 7
